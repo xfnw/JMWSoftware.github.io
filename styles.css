@@ -1,0 +1,161 @@
+/*
+ * Pubnix (pubnix.css) - v1.0
+ * https://www.antonmcclure.com/themes/pubnix
+ *
+ * Copyright (C) 2020 Anton McClure.
+ *
+ * Licensed under the GNU Affero General Public License (AGPL) Version 3.
+ *
+ * https://cdn.antonmcclure.com/licenses/agpl-3.0.txt
+ *
+ */
+html {
+	font-family: monospace;
+	font-size: 16px;
+	line-height: 30px;
+	padding: 19px;
+	background-color: #080808;
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	max-width: 976px;
+	margin: 0px auto;
+}
+header,section#content,main,footer,div.fp {
+	background-color: #181818;
+	color: lime;
+	padding-top: 19px;
+	padding-bottom: 19px;
+}
+header,footer {
+	text-align: center;
+}
+h1,h2,h3,h4,h5 {
+	font-size: 16px;
+	font-weight: bolder;
+	background-color: #262626;
+	text-align: center;
+}
+h1#pt {
+	margin-top: 0;
+	padding: 19px;
+	text-align: center;
+}
+p, ul, ol, blockquote, pre, .alert, .note, .box, .footnotes {
+	margin-bottom: 30px;
+}
+ul, ol {
+	margin-left: 30px;
+}
+li {
+	margin-bottom: 12px;
+}
+blockquote {
+	padding-left: 19px;
+	border-style: solid;
+	border-color: rgba(0,0,0,0.15);
+	border-width: 0 0 0 7px;
+}
+sub, sup {
+	padding: 0 1px;
+}
+code, pre, kbd {
+	font-size: 15px;
+}
+code {
+	background-color: rgba(0,0,0,0.08);
+	padding: 3px 4px;
+	border-radius: 7px;
+	margin: 0 1px;
+}
+pre {
+	padding: 12px;
+	border-style: solid;
+	border-color: rgba(0,0,0,0.15);
+	border-width: 0 0 0 7px;
+}
+kbd {
+	background-color: #3f3f3f;
+	padding: 3px 4px;
+	border-radius: 4px;
+	box-shadow: 0 0 4px 0 rgba(0,0,0,0.45);
+	margin: 0 1px;
+}
+.alert, .note, .box {
+	padding: 19px;
+}
+.footnotes {
+	font-size: 13px;
+	line-height: 26px;
+	padding-top: 19px;
+	border-top: 1px dotted rgba(0,0,0,0.15);
+}
+.footnotes p {
+	margin-bottom: 19px;
+}
+ul ul, ul ol, ol ul, ol ol, blockquote.right p, blockquote.left p, .alert :last-child, .note :last-child, .box :last-child, .footnotes :last-child {
+	margin-bottom: 0;
+}
+nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #202020;
+}
+nav > li {
+	float: left;
+	margin: 0;
+}
+nav > li > a {
+	display: block;
+	color: limegreen;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+nav > li > a:hover {
+	background-color: #444;
+}
+section#content {
+	padding-top: 19px;
+	padding-bottom: 19px;
+}
+main {
+	background-color: #202020;
+	padding-top: 0;
+}
+div#main {
+	padding-left: 19px;
+	padding-right: 19px;
+	padding-bottom: 19px;
+}
+div.links {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #202020;
+}
+div.links > li {
+	float: left;
+	margin: 0;
+}
+div.links > li > a {
+	display: block;
+	color: limegreen;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+div.links > li > a:hover {
+	background-color: #444;
+}
+a {
+	color: greenyellow;
+}
+
+a:visited {
+	color: lawngreen;
+}
