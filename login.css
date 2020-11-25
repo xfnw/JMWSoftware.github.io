@@ -22,9 +22,7 @@ button {
   border: none;
   cursor: pointer;
   width: 100%;
-  p {
-  color: white;
-}
+  text-color: white;
 }
 
 /* Add a hover effect for buttons */
