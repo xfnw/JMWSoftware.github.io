@@ -15,8 +15,8 @@ input[type=text], input[type=password] {
 
 /* Set a style for all buttons */
 button {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #000000;
+  color: black;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -29,11 +29,11 @@ button:hover {
   opacity: 0.8;
 }
 
-/* Extra style for the cancel button (red) */
+/* Extra style for the cancel button (black) */
 .cancelbtn {
   width: auto;
   padding: 10px 18px;
-  background-color: #f44336;
+  background-color: #000000;
 }
 
 /* Center the avatar image inside this container */
