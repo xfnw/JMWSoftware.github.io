@@ -22,6 +22,9 @@ button {
   border: none;
   cursor: pointer;
   width: 100%;
+  h1 {
+  color: white;
+}
 }
 
 /* Add a hover effect for buttons */
