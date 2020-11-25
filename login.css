@@ -54,6 +54,10 @@ img.avatar {
   padding: 16px;
 }
 
+body {
+  background-color: #eb94d0;
+}
+
 /* The "Forgot password" text */
 span.psw {
   float: right;
