@@ -110,7 +110,7 @@ nav > li {
 }
 nav > li > a {
 	display: block;
-	color: limegreen;
+	color: purple;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -144,7 +144,7 @@ div.links > li {
 }
 div.links > li > a {
 	display: block;
-	color: limegreen;
+	color: purple;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -153,9 +153,9 @@ div.links > li > a:hover {
 	background-color: #444;
 }
 a {
-	color: greenyellow;
+	color: purple;
 }
 
 a:visited {
-	color: lawngreen;
+	color: purple;
 }
