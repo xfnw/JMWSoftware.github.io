@@ -14,14 +14,13 @@ html {
 	font-size: 16px;
 	line-height: 30px;
 	padding: 19px;
-	background-color: #080808;
+        background-image: url("/img0001.png");
 	margin: 0px;
 	padding: 0px;
 }
 body {
 	max-width: 976px;
 	margin: 0px auto;
-	background-image: url("/img0001.png");
 }
 header,section#content,main,footer,div.fp {
 	background-color: #181818;
