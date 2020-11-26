@@ -21,6 +21,7 @@ html {
 body {
 	max-width: 976px;
 	margin: 0px auto;
+	background-image: url("img0001.png");
 }
 header,section#content,main,footer,div.fp {
 	background-color: #181818;
